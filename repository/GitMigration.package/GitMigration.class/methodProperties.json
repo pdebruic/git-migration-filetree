@@ -1,0 +1,40 @@
+{
+	"instance" : {
+		"useAuthorsOn:" : "",
+		"isRoot:in:" : "",
+		"versions" : "",
+		"versionsInfo" : "",
+		"initialize" : "",
+		"findRepositoryNamed:" : "",
+		"versionsByPackage" : "",
+		"ignoredFileNames:" : "",
+		"versionsWithPackageNames" : "",
+		"preCheckOn:" : "",
+		"projectName:" : "",
+		"visualization" : "",
+		"allAuthors" : "",
+		"downloadAllVersions" : "",
+		"cacheAllVersions" : "",
+		"topologicallySort:" : "",
+		"commitOrder" : "",
+		"completeAncestryOfPackageNamed:" : "",
+		"selectedPackageNames:" : "",
+		"fastImportCodeToDirectory:initialCommit:to:" : "",
+		"authorsInSnapshot:" : "",
+		"populateCaches" : "",
+		"createFastImportAt:usingWriter:" : "",
+		"packagesWithMultipleRoots" : "",
+		"versionsToMigrate" : "",
+		"versionInfoFromFileNamed:" : "",
+		"onEmptyMessage:" : "",
+		"versionFromFileNamed:" : "",
+		"authors:" : "",
+		"topologicallySortPairs:" : "",
+		"repository" : "",
+		"do:displaying:" : "",
+		"preChecksOn:" : ""
+	},
+	"class" : {
+		"on:" : ""
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MCFileTreeRepository",
+	"category" : "GitMigration-FileSystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GitMigrationMemoryTreeGitRepository",
+	"type" : "normal"
+}

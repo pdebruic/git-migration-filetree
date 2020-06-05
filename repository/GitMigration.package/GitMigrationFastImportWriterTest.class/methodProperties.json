@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"testWriteInitialVersion" : "",
+		"testWriteVersionDeletePackageTrimmed" : "",
+		"testWriteVersionUnicode" : "",
+		"writerClass" : "",
+		"testWriteDeletePackage2" : "",
+		"testWriteDeletePackage" : "",
+		"versionWithoutParent" : "",
+		"ensureAllCached" : "",
+		"versionWithTwoAncestors" : "",
+		"ensureTestRepoLoaded" : "",
+		"ensureGitFileTreeLoaded" : "",
+		"testWriteVersion" : "",
+		"testWriteVersionDeletePackage" : "",
+		"setUp" : ""
+	},
+	"class" : {
+		"isAbstract" : ""
+	}
+}

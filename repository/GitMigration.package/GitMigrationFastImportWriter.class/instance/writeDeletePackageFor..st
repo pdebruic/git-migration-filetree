@@ -1,0 +1,3 @@
+writing
+writeDeletePackageFor: aVersion
+	self subclassResponsibility

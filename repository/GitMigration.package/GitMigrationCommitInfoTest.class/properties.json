@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "GitMigration-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"authorMapping",
+		"committer",
+		"writer"
+	],
+	"name" : "GitMigrationCommitInfoTest",
+	"type" : "normal"
+}

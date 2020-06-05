@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "GitMigration-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream",
+		"writer",
+		"authorMapping",
+		"committer"
+	],
+	"name" : "GitMigrationFastImportWriterTest",
+	"type" : "normal"
+}

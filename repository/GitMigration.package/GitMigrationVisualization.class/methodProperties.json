@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"showProjectAncestryWithLabels" : "",
+		"tailColor" : "",
+		"showProjectAncestryOn:withLabels:" : "",
+		"migration" : "",
+		"showProjectAncestryWithLabels:" : "",
+		"showProjectAncestryOn:" : "",
+		"showAncestryTopologyOnPackageNamed:" : "",
+		"rootColor" : "",
+		"missingColor" : "",
+		"showAncestryTopologyOnPackageNamed:inView:" : "",
+		"showProjectAncestry" : "",
+		"migration:" : ""
+	},
+	"class" : {
+		"on:" : ""
+	}
+}

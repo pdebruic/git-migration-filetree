@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"testWriteInitialVersion" : "",
+		"testWriteInitialVersionEmptyMessageError" : "",
+		"testWriteVersionDeletePackageTrimmed" : "",
+		"testWriteVersionUnicode" : "",
+		"writerClass" : "",
+		"testWriteDeletePackage2" : "",
+		"testWriteDeletePackage" : "",
+		"testEnsureContainsOrganization" : "",
+		"testWriteProject" : "",
+		"testWriteInitialVersionEmptyMessage" : "",
+		"testWriteVersion" : "",
+		"testWriteVersionDeletePackage" : "",
+		"testWriteProperties" : ""
+	},
+	"class" : { }
+}

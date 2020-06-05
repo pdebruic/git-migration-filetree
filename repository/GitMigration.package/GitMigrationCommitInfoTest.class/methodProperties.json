@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"testAuthorName" : "",
+		"setUp" : "",
+		"testCommittedDate" : "",
+		"testCommitterEmail" : "",
+		"versionWithCoauthors" : "",
+		"testCommitterName" : "",
+		"commitInfoFor:" : "",
+		"versionWithTwoAncestors" : "",
+		"testAuthorEmail" : "",
+		"ensureGitFileTreeLoaded" : "",
+		"versionWithoutParent" : "",
+		"ensureAllCached" : "",
+		"testCommitMessage" : "",
+		"ensureTestRepoLoaded" : "",
+		"testDefaultBranch" : "",
+		"testCommitMessageWithCoauthors" : "",
+		"testAuthoredDate" : "",
+		"testCommitMessageNull" : "",
+		"versionWithNull" : ""
+	},
+	"class" : { }
+}

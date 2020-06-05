@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GitMigration",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"authors",
+		"repository",
+		"cachedVersions",
+		"completeAncestryCache",
+		"versionsWithPackageNames",
+		"versionsCache",
+		"allAuthors",
+		"selectedPackageNames",
+		"onEmptyMessage",
+		"ignoredFileNames"
+	],
+	"name" : "GitMigration",
+	"type" : "normal"
+}

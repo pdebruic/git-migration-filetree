@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testWriteVersionUnicode" : "",
+		"testWriteDeletePackage" : "",
+		"writerClass" : "",
+		"testWriteInitialVersion" : "",
+		"testWriteVersionDeletePackageTrimmed" : "",
+		"testWriteDeletePackage2" : "",
+		"testWriteVersion" : "",
+		"testWriteVersionDeletePackage" : ""
+	},
+	"class" : { }
+}

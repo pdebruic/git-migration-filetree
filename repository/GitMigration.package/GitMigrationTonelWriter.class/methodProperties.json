@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"ensureContainsOrganization:" : "",
+		"writeProjectFileTo:" : "",
+		"writePropertiesFileTo:" : "",
+		"writeDeletePackageFor:" : "",
+		"newMemoryStore" : "",
+		"copyPackageIn:toStore:" : "",
+		"writeVersion:" : ""
+	},
+	"class" : { }
+}

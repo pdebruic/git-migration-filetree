@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"branch" : "",
+		"authorName" : "",
+		"author:" : "",
+		"initialize" : "",
+		"branch:" : "",
+		"committer:" : "",
+		"coauthors:" : "",
+		"authoredDate" : "",
+		"info" : "",
+		"parents:" : "",
+		"committedDate" : "",
+		"committerName" : "",
+		"committer" : "",
+		"parents" : "",
+		"authorEmail" : "",
+		"info:" : "",
+		"commitMessage" : "",
+		"coauthors" : "",
+		"committerEmail" : "",
+		"onEmptyMessage:" : "",
+		"author" : "",
+		"printOn:" : ""
+	},
+	"class" : {
+		"info:mapping:committer:coauthors:onEmptyMessage:" : ""
+	}
+}

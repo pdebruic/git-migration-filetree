@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"testAuthorsOk" : "",
+		"testCompleteAncestry" : "",
+		"mockVersionsForAllAuthors" : "",
+		"setUp" : "",
+		"testAllAuthorsReadsCommitAuthor" : "",
+		"testVersionInfo" : "",
+		"ensureGitFileTreeLoaded" : "",
+		"testAllAuthors" : "",
+		"testFindRepository" : "",
+		"ensureAllCached" : "",
+		"testOn" : "",
+		"ensureTestRepoLoaded" : "",
+		"testVersionsByPackage" : "",
+		"testVersionsByPackageWithFilter" : "",
+		"testIsRoot" : "",
+		"testIgnoreFileNames" : "",
+		"testCompleteAncestryTrimmed" : "",
+		"testTopologicallySort" : "",
+		"testAllAuthorsReadsSnapshot" : "",
+		"testAllAuthorsContainsLocal" : "",
+		"testCommitOrder" : "",
+		"testCompleteAncestry2" : "",
+		"testCacheAllVersions" : ""
+	},
+	"class" : { }
+}

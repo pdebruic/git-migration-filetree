@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"commitMarks" : "",
+		"availableVersions:" : "",
+		"authorMapping:" : "",
+		"on:" : "",
+		"commitInfoFor:" : "",
+		"exportDirectory:" : "",
+		"initialize" : "",
+		"exportDirectory" : "",
+		"authorsInSnapshot:" : "",
+		"onEmptyMessage:" : "",
+		"writeDeletePackageFor:" : "",
+		"authorMapping" : "",
+		"writeVersion:" : "",
+		"committerName:" : "",
+		"commitMarkFor:" : "",
+		"initialCommit:" : ""
+	},
+	"class" : { }
+}
