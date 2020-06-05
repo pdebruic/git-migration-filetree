@@ -4,7 +4,7 @@ fastImportCodeToDirectory: aDirectoryName initialCommit: anInitialCommitish to: 
 	aFileReference asFileReference
 		ensureDelete;
 		writeStreamDo: [ :rawStream | 
-			writer := GitMigrationTonelWriter new on: rawStream.
+			writer := GitMigrationFileTreeWriter new on: rawStream.
 			writer exportDirectory: aDirectoryName.
 			writer onEmptyMessage: onEmptyMessage.
 			self createFastImportAt: anInitialCommitish usingWriter: writer ].
