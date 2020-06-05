@@ -35,6 +35,9 @@
 		"preChecksOn:" : ""
 	},
 	"class" : {
-		"on:" : ""
+		"migratePackageNamed:inRepository:" : "PaulDeBruicker 6/5/2020 08:17",
+		"getInitialCommitHashFor:" : "PaulDeBruicker 6/4/2020 22:48",
+		"on:" : "",
+		"doFastImportResetHEADAndCommitFor:in:" : "PaulDeBruicker 6/5/2020 08:20"
 	}
 }
