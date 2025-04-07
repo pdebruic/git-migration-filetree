@@ -19,4 +19,4 @@ testWriteVersion
 	self
 		assert: ((stream contents lines first: 7) copyWithoutIndex: 4)
 		equals:
-			#('commit refs/heads/master' 'mark :2' 'author Peter Uhnak <i.uhnak@gmail.com> 1493283388 +0000' 'data 5' 'qwrqw' 'D Somewhere')
+			{'commit refs/heads/',GitMigration defaultBranchName. 'mark :2'. 'author Peter Uhnak <i.uhnak@gmail.com> 1493283388 +0000'. 'data 5'. 'qwrqw'. 'D Somewhere'.}

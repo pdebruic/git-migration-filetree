@@ -6,6 +6,6 @@ memoryStoreVersion: aVersion
 	IceMetadatalessFileTreeWriter fileOut: aVersion on: self.
 	packageDirectoryString := (self class parseName: aVersion info name) first
 		, self packageExtension.
-	aVersion dependencies notEmpty
+	"aVersion dependencies notEmpty
 		ifTrue: [ self
-				writeGitFileTreeProperties: (self fileUtils directoryFromPath: packageDirectoryString relativeTo: directory) ]
+				writeGitFileTreeProperties: (self fileUtils directoryFromPath: packageDirectoryString relativeTo: directory) ]"

@@ -1,4 +1,4 @@
 accessing
 initialize
 	super initialize.
-	branch := 'master'
+	branch := 'main'

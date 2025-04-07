@@ -3,10 +3,10 @@
 		"testWriteVersionUnicode" : "",
 		"testWriteDeletePackage" : "",
 		"writerClass" : "",
-		"testWriteInitialVersion" : "",
+		"testWriteInitialVersion" : "PaulDeBruicker 4/6/2025 11:50",
 		"testWriteVersionDeletePackageTrimmed" : "",
 		"testWriteDeletePackage2" : "",
-		"testWriteVersion" : "",
+		"testWriteVersion" : "PaulDeBruicker 4/6/2025 11:51",
 		"testWriteVersionDeletePackage" : ""
 	},
 	"class" : { }

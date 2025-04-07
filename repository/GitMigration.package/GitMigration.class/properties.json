@@ -4,7 +4,9 @@
 	"category" : "GitMigration",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"ContactInfo"
+	],
 	"instvars" : [
 		"authors",
 		"repository",

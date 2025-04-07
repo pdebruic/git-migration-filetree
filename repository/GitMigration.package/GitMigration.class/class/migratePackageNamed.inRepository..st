@@ -4,17 +4,18 @@ migratePackageNamed: packageAndIgnoredNames inRepository: repositoryName
 	packageNames := packageAndIgnoredNames allButLast.
 	ignoredNames := packageAndIgnoredNames last.
 	mainPkgName := packageNames first.
-	dirPath := '/opt/git/migration/' , mainPkgName , '-filetree'.
+	dirPath := '/opt/git/migration/' , mainPkgName .
 	initialCommitHash := self getInitialCommitHashFor: dirPath.
 	migration := GitMigration on: repositoryName.
 	migration selectedPackageNames: packageNames.
 	migration ignoredFileNames: ignoredNames.
 	migration
-		authors: {('PaulDeBruicker' -> #('Paul DeBruicker' 'pdebruic@gmail.com'))}.
+		authors: {('PaulDeBruicker' -> #('Paul DeBruicker' 'pdebruic@gmail.com')).
+		('EstebanMaringolo' -> #('Esteban Maringolo' 'pdebruic@gmail.com'))}.
 	migration cacheAllVersions.
 	importFileName :=  mainPkgName , '-import.txt'.
 	migration
-		fastImportCodeToDirectory: dirPath , '/repository'
+		fastImportCodeToDirectory:  '/repository'
 		initialCommit: initialCommitHash trim
 		to: dirPath , '/' , importFileName .
 	self doFastImportResetHEADAndCommitFor: importFileName in: dirPath

@@ -20,7 +20,7 @@
 		"completeAncestryOfPackageNamed:" : "",
 		"selectedPackageNames:" : "",
 		"fastImportCodeToDirectory:initialCommit:to:" : "PaulDeBruicker 6/4/2020 22:00",
-		"authorsInSnapshot:" : "",
+		"authorsInSnapshot:" : "PaulDeBruicker 8/19/2021 13:56",
 		"populateCaches" : "",
 		"createFastImportAt:usingWriter:" : "",
 		"packagesWithMultipleRoots" : "",
@@ -35,9 +35,19 @@
 		"preChecksOn:" : ""
 	},
 	"class" : {
-		"migratePackageNamed:inRepository:" : "PaulDeBruicker 6/5/2020 08:17",
-		"getInitialCommitHashFor:" : "PaulDeBruicker 6/4/2020 22:48",
+		"migrateCMS" : "PaulDeBruicker 4/4/2025 15:28",
+		"doFastImportResetHEADAndCommitFor:in:" : "PaulDeBruicker 8/19/2021 16:39",
+		"contactInfoFor:" : "PaulDeBruicker 8/19/2021 12:37",
+		"migratePackagesStartingWith:ignoring:inRepository:" : "PaulDeBruicker 4/5/2025 09:00",
+		"addAuthorsToMigration:" : "PaulDeBruicker 8/19/2021 12:45",
+		"allPackages" : "PaulDeBruicker 9/1/2021 16:54",
+		"defaultBranchName" : "PaulDeBruicker 4/6/2025 11:49",
 		"on:" : "",
-		"doFastImportResetHEADAndCommitFor:in:" : "PaulDeBruicker 6/5/2020 08:20"
+		"setContactInfo" : "PaulDeBruicker 4/4/2025 15:57",
+		"setGithubActionsAndCIFor:in:" : "PaulDeBruicker 4/6/2025 17:55",
+		"migratePackagesIncluding:ignoring:inRepository:intoPackageNamed:" : "PaulDeBruicker 4/6/2025 12:40",
+		"getInitialCommitHashFor:" : "PaulDeBruicker 6/4/2020 22:48",
+		"findRepositoryNamed:" : "PaulDeBruicker 8/19/2021 12:44",
+		"migratePackageNamed:inRepository:" : "PaulDeBruicker 8/18/2021 14:07"
 	}
 }

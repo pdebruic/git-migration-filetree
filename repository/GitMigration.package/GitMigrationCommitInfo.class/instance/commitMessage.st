@@ -9,7 +9,7 @@ commitMessage
 					[ message := ((onEmptyMessage cull: info) copyWithout: Character null) withUnixLineEndings ].
 			self assert: [ message isNotEmpty ] description: [ 'Commit message must not be empty' ].
 			stream << message.
-			(self coauthors sorted: #name ascending)
+			(self coauthors asSet sorted: #name ascending)
 				ifNotEmpty: [ :co | 
 					stream lf.
 					stream lf.

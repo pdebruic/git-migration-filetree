@@ -17,7 +17,7 @@ testWriteInitialVersionEmptyMessage
 	self
 		assert: (contents lines first: 8)
 		equals:
-			('commit refs/heads/master
+			('commit refs/heads/',GitMigration defaultBranchName,'
 mark :1
 author Peter Uhnak <i.uhnak@gmail.com> 1538689956 +0000
 committer Committer Bot <committerbot@example.com> {1}

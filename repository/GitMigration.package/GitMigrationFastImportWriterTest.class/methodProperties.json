@@ -1,6 +1,6 @@
 {
 	"instance" : {
-		"testWriteInitialVersion" : "",
+		"testWriteInitialVersion" : "PaulDeBruicker 4/6/2025 11:49",
 		"testWriteVersionDeletePackageTrimmed" : "",
 		"testWriteVersionUnicode" : "",
 		"writerClass" : "",
@@ -11,7 +11,7 @@
 		"versionWithTwoAncestors" : "",
 		"ensureTestRepoLoaded" : "",
 		"ensureGitFileTreeLoaded" : "",
-		"testWriteVersion" : "",
+		"testWriteVersion" : "PaulDeBruicker 4/6/2025 11:51",
 		"testWriteVersionDeletePackage" : "",
 		"setUp" : ""
 	},
